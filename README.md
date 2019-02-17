@@ -9,6 +9,8 @@ A Training dataset containing 5 columns :
     Turn 2 - Contains the second turn, which is a reply to the first turn in conversation and is written by User 2
     Turn 3 - Contains the third turn, which is a reply to the second turn in the conversation, which is written by User 1
     Label - Contains the human judged label of Emotion of Turn 3 based on the conversation for the given training sample. It is always one of the four values - 'happy', 'sad, 'angry' and 'others'
+    
+    The data was provided by Microsoft
 
 # Feature Engineering
 
