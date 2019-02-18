@@ -1,6 +1,6 @@
-# emo-context
+# Emo Context
 
-This project was created as part of a participation in the "EmoContext A Shared Task on Contextual Emotion Detection in Text"  (https://www.humanizing-ai.com/emocontext.html). The task was to build a model to predict the emotion in the last message in a chat conversation. Each chat conversation contained 3 chat messages between two persons (User1 write something, User2 answers something back and User1 send a last message back). The provided dataset format was as follows:
+This project was created as part of a participation in the "EmoContext A Shared Task on Contextual Emotion Detection in Text"  (https://www.humanizing-ai.com/emocontext.html). The task was to build a model to predict the emotion (Happy, Sad, Angry or Others) in the last message in a chat conversation. Each chat conversation contained 3 chat messages between two persons (User1 write something, User2 answers something back and User1 send a last message back). The provided dataset format was as follows:
 
 A Training dataset containing 5 columns :
 
